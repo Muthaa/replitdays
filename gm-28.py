@@ -2,7 +2,7 @@ import os , time , random
 def menu():
   print("""
      ⚔️  BATTLE TIME ⚔️ 
-          Rager Games
+     RAGER GAMES ONLINE
     
     """)
 def roller(nside):
